@@ -4,9 +4,11 @@ This repository contains Python implementations of various numerical methods, in
 
 
 ## How to Run
-1. Make sure you have Python 3 and `matplotlib` installed:
+1. Make sure you have Python 3 and `matplotlib` , `numpy` , `pandas` installed:
    ```sh
    pip install matplotlib
+   pip install numpy
+   pip install pandas
    ```
 2. Run any script using:
    ```sh
